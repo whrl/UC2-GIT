@@ -74,7 +74,7 @@ Note: The pictures on this site do not show the latest version of the cubes. Fol
 * [Laser Cube ](../../CAD/ASSEMBLY_CUBE_Laser_v2/)
 * [Beamexpander Cube ](../../CAD/ASSEMBLY_CUBE_Beamexpander_v2/)
 * [Cylindrical Lens Cube ](../../CAD/ASSEMBLY_CUBE_Lens_Cylindrical_v2/)
-* [Kinematic Mirror Cube ](../../CAD/ASSEMBLY_CUBE_Mirror_45_v2/)
+* [Kinematic Mirror Cube ](../../CAD/ASSEMBLY_CUBE_Mirror_Kinematic_v2/)
 * [Objective Lens Cube ](../../CAD/ASSEMBLY_CUBE_Lens_v2/)
 * [Sample-stage ](../../CAD/ASSEMBLY_CUBE_S-STAGE_v2/)
 * [Z-stage ](../../CAD/ASSEMBLY_CUBE_Z-STAGE_v2/)
